@@ -69,7 +69,7 @@ export default function About() {
           <div className="flex flex-col md:flex-row items-center">
             <div className="md:w-1/2 mb-10 md:mb-0">
               <Image
-                src="/placeholder.svg?height=400&width=500"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW5X0AFXgOclIMPDDFEDpqn991He03s_dvgw&s"
                 alt="TechTrends Office"
                 width={500}
                 height={400}

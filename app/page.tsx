@@ -33,7 +33,7 @@ export default function Home() {
             </div>
             <div className="md:w-1/2">
               <Image
-                src="/placeholder.svg?height=400&width=500"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRipW0pcxvQZ3S74WsryGYkchNz5CzFH7y6Kg&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1BxKa1lXH7IHTgZ2g6V1ZAE0Ci8d7z7aKhDeKKpkL29N_tdmNLn0cqtSNIPcudjvH8zE&usqp=CAU"
                 alt="Latest Tech Gadgets"
                 width={500}
                 height={400}
@@ -73,7 +73,7 @@ export default function Home() {
           <div className="flex flex-col md:flex-row items-center">
             <div className="md:w-1/2 mb-10 md:mb-0">
               <Image
-                src="/placeholder.svg?height=400&width=500"
+                src="https://inventstore.in/wp-content/uploads/2024/07/63.webp"
                 alt="TechTrends Store"
                 width={500}
                 height={400}
